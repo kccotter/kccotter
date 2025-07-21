@@ -1,6 +1,6 @@
 # Kasey Nagle
 
-Founder of Mano | Software Engineer | Building Technology for Labor Equity
+Founder of Mano | Former Amazon and Lawrence Livermore National Laboratory Engineer | Building Tech for Labor Equity
 
 I’m the founder of [Mano](https://www.joinmano.com), a mobile platform that helps employers connect with day laborers through real-world QR check-ins, nonprofit-backed worker validation, and built-in escrow for safe, fast payment. Mano launched its private beta in July 2025. We are actively partnering with nonprofits, onboarding workers, and preparing for our first public rollout in the Bay Area.
 
@@ -31,7 +31,9 @@ Python, Mobile UX, Product Strategy, Civic Tech, High Performance Computing, Dev
 ## Links
 
 - Website: [www.joinmano.com](https://www.joinmano.com)  
-- LinkedIn: [linkedin.com/in/kaseynagle](https://www.linkedin.com/in/kaseynagle)  
+- Mano GitHub: [github.com/manoworker-app](https://github.com/manoworker-app)  
+- Mano LinkedIn: [linkedin.com/company/manoworker](https://www.linkedin.com/company/manoworker)  
+- Personal LinkedIn: [linkedin.com/in/kaseynagle](https://www.linkedin.com/in/kaseynagle)  
 - GitHub: [github.com/kccotter](https://github.com/kccotter)  
 - Email: [hello@joinmano.com](mailto:hello@joinmano.com)
 
