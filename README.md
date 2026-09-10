@@ -2,11 +2,13 @@
 
 Software Engineer | Founder of Mano (paused) | Amazon, Lawrence Livermore National Laboratory
 
-I'm a software engineer looking for my next full-time technical role. I previously worked at Amazon Music on the wearables team, building a consistent music experience across smartwatches, fitness trackers, and headphones.
+I'm a software engineer with a background spanning national security research, consumer product engineering, and startup founding.
 
-Before that, I worked at Lawrence Livermore National Laboratory, where I held Q-level security clearance and did AI/ML research on nuclear fusion experiments at the National Ignition Facility (NIF). I built Python tools for high-performance physics simulations and led machine learning workflows to optimize fusion experiments.
+At Lawrence Livermore National Laboratory, I held Q-level security clearance and did AI/ML research on nuclear fusion experiments at the National Ignition Facility (NIF). I built Python tools for high-performance physics simulations and led machine learning workflows to optimize fusion experiments.
 
-In June 2025, I founded [Mano](https://www.joinmano.com), a mobile platform that helped employers connect with day laborers through real-world QR check-ins, nonprofit-backed worker validation, and built-in escrow for safe, fast payment. I ran Mano until November 2025, when I made the call to pause it while I pursue new opportunities.
+At Amazon Music, I worked on the wearables team, building a consistent music experience across smartwatches, fitness trackers, and headphones.
+
+In June 2025, I founded [Mano](https://www.joinmano.com), a mobile platform that helped employers connect with day laborers through real-world QR check-ins, nonprofit-backed worker validation, and built-in escrow for safe, fast payment. I built the product, launched a private beta, and partnered with nonprofits to onboard workers. I ran Mano until November 2025, when I made the call to pause it.
 
 I studied computer science with a concentration in software engineering and took additional coursework in electrical engineering. I grew up between the U.S. and Panama and care deeply about using technology to serve working-class and immigrant communities.
 
